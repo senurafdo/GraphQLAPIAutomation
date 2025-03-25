@@ -1,11 +1,13 @@
 # GraphQL API Automation
 
-Credit goes to Sithira Pathirana
-This project was build using Sithira's project https://github.com/sith89/GraphQLAPIAutomation
-More details : https://medium.com/@sithirapathirana1989/graphql-test-automation-with-rest-assured-json-snapshot-ee9156f217e4
+The credit goes to Sithira Pathirana.
+
+This project was built using Sithira's project https://github.com/sith89/GraphQLAPIAutomation
+
+More details: https://medium.com/@sithirapathirana1989/graphql-test-automation-with-rest-assured-json-snapshot-ee9156f217e4
 
 
-This project is a sample project which demonstrate GraphQL API automation with Rest Assured and Java
+This project is a sample project which demonstrates GraphQL API automation with Rest Assured and Java
 
 Precondtion
 -----------
