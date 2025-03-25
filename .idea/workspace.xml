@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84b6a6b-b39b-44bb-8625-17c1b27f01f9" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e84b6a6b-b39b-44bb-8625-17c1b27f01f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modal/response/Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modal/response/Episode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modal/response/GraphQLData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modal/response/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modal/response/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modal/response/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/charaterTest/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modal/response/AllPersonsData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modal/response/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modal/response/GraphQLGetResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modal/response/GraphQLGetResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modal/response/PostsData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GraphQLSampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GraphQLSampleTest.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/restassured_with_graphql.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/modal/response/AllPersonsData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/modal/response/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/modal/response/GraphQLGetResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/modal/response/GraphQLGetResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/modal/response/PostsData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GraphQLSampleTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +43,39 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="1btGPzc49ZqFDI300pMetAJEIp7" />
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.GraphQLSampleTest.testGraphQLGetRequestWithValidDetails">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.GraphQLSampleTest.testGraphQLGetRequestWithValidDetails.executor": "Run",
+    "JUnit.Test01.testGraphQLGetRequestWithValidDetails.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/senurafernando/Documents/Java /Automation/GraphQLAPIAutomation/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.GraphQLTest.testGraphQLGetRequestWithValidDetails">
     <configuration name="GraphQLSampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassured_with_graphql" />
       <option name="PACKAGE_NAME" value="" />
@@ -64,6 +105,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GraphQLTest.testGraphQLGetRequestWithValidDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassured_with_graphql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="charaterTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="charaterTest" />
+      <option name="MAIN_CLASS_NAME" value="charaterTest.GraphQLTest" />
+      <option name="METHOD_NAME" value="testGraphQLGetRequestWithValidDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GraphQLSampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restassured_with_graphql" />
       <option name="PACKAGE_NAME" value="" />
@@ -75,28 +132,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphQLSampleTest.testCreateGraphQLGetRequestWithValidDetails" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="restassured_with_graphql" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GraphQLSampleTest" />
-      <option name="METHOD_NAME" value="testCreateGraphQLGetRequestWithValidDetails" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GraphQLTest.testGraphQLGetRequestWithValidDetails" />
         <item itemvalue="JUnit.GraphQLSampleTest.testGraphQLGetRequestWithValidDetails" />
         <item itemvalue="JUnit.GraphQLSampleTest.testCreateGraphQLGetRequestWithValidDetails" />
         <item itemvalue="JUnit.GraphQLSampleTest" />
         <item itemvalue="TestNG.GraphQLSampleTest" />
-        <item itemvalue="TestNG.GraphQLSampleTest.testCreateGraphQLGetRequestWithValidDetails" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -107,7 +161,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589443955803</updated>
+      <workItem from="1742893074224" duration="8203000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

@@ -5,6 +5,6 @@ import lombok.Data;
 
 @Data
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class GraphQLGetResponse {
-    private GraphQLData data;
+public class Info {
+    private int count;
 }
